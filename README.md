@@ -3,7 +3,11 @@
 [![GitHub followers](https://img.shields.io/github/followers/arian01Xx?label=Follow&style=social)](https://github.com/arian01Xx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/arian01Xx)
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development and open-source contributions. Here's a bit about me:
+## Mi calendario de contribuciones
+
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=arian01Xx&theme=default)
+
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development and open-source contributions and full cybersecurity. Here's a bit about me:
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **[just cybersecurity and data structure]**
